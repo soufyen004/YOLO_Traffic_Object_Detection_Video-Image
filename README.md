@@ -86,5 +86,5 @@ Detected cars, buses, motorcycles, bicycles, and people with bounding boxes.
 ---
 📬 Contact
 For any questions, suggestions, or collaboration inquiries, please reach out:
-📧 jayaramireddyc26@gmail.com
+📧 souaksoufyen@gmail.com
 
